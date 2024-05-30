@@ -1,0 +1,2 @@
+# PURPOSELESS
+A purposeless switch
